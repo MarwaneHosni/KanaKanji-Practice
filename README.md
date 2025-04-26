@@ -2,7 +2,7 @@
 
 ## Master Japanese Hiragana, Katakana, Kanji
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)]
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 [![Deploy Status](https://img.shields.io/badge/deploy-active-success)](https://kanakanji.vercel.app/)
 
 ![Kana Quiz Banner](./public/home-kana.png)
