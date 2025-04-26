@@ -9,7 +9,7 @@
 
 ## 📘 Overview
 
-Kana Quiz is a comprehensive, interactive application designed to facilitate efficient learning of Japanese writing systems. This educational tool offers structured practice for Hiragana, Katakana, Kanji, and combined Kana characters, making Japanese language acquisition accessible and engaging for learners at all levels.
+KanaKani Practice is a comprehensive, interactive application designed to facilitate efficient learning of Japanese writing systems. This educational tool offers structured practice for Hiragana, Katakana, Kanji, and combined Kana characters, making Japanese language acquisition accessible and engaging for learners at all levels.
 
 ## ✨ Key Features
 
