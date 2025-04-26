@@ -16,7 +16,7 @@ export default function KanaQuiz() {
         <div className="max-w-5xl mx-auto px-4 py-4">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8 gap-4">
                 <h1 className="text-4xl font-extrabold tracking-tight text-purple-600">
-                    文字練習🎌Moji Practice
+                仮名漢字練習🎌KanaKanji Practice
                 </h1>
                 <div className="flex flex-wrap gap-2">
                     {quizzes.map((item) => (

@@ -95,7 +95,7 @@ export default function HiraganaCard() {
                                 <div className="flex justify-between w-full">
                                     <Button onClick={nextHiragana} className="w-[48%]">Next</Button>
                                     <Button variant="outline" onClick={handleShowAnswer} className="w-[48%]">
-                                        💡 Show Answer
+                                        💡 Show 
                                     </Button>
                                 </div>
                                 <div className="flex justify-center gap-8 text-sm text-muted-foreground">
@@ -103,7 +103,7 @@ export default function HiraganaCard() {
                                     <p>❌ Wrong: {wrongCount}</p>
                                 </div>
                                 <Button variant="secondary" onClick={() => setHideCombination(!hideCombination)}>
-                                    {hideCombination ? "Show All Hiragana" : "Hide Combinations"}
+                                    {hideCombination ? "👀 Show All Katakana" : "㊙ Hide Combinations"}
                                 </Button>
                             </CardFooter>
                         </Card>

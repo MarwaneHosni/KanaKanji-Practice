@@ -111,7 +111,7 @@ export default function KanjiQuizCard() {
                             <CardFooter className="flex flex-col gap-4">
                                 <div className="flex justify-between w-full">
                                     {!showed ? (
-                                        <Button onClick={handleShow} className="w-full">💡 Show Answer</Button>
+                                        <Button onClick={handleShow} className="w-full">💡 Show </Button>
                                     ) : (
                                         <Button onClick={handleNext} className="w-full" disabled={!correct}>➡️ Next</Button>
                                     )}

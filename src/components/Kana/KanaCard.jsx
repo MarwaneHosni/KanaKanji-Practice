@@ -89,7 +89,7 @@ export default function KanaQuizCard() {
                                 <div className="flex justify-between w-full">
                                     <Button onClick={nextKana} className="w-[48%]">Next</Button>
                                     <Button variant="outline" onClick={handleShowAnswer} className="w-[48%]">
-                                        💡 Show Answer
+                                        💡 Show 
                                     </Button>
                                 </div>
                                 <div className="flex justify-center gap-8 text-sm text-muted-foreground">
